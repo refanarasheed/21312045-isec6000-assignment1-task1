@@ -1,11 +1,12 @@
-<div align="center">![kubernetes-horizontal-color](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d89b9c37-afc8-4b40-997b-ddf2478eba96)
-</div>
-<div align="center">######image courtesy: Google</div>
+![kubernetes-horizontal-color](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d89b9c37-afc8-4b40-997b-ddf2478eba96)
+
+<div align="center">image courtesy: Google</div>
 
 # Create Kubernetes Cluster on Google Kubernetes Engine:
 1)	Access the Google Cloud Console by signing in
 2)	Follow the steps below to **create a new project**:
-       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access: [Go to Manage Resources]  (https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
+       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access: 
+          [Go to Manage Resources] (https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
        2) Then click the **Create Project** button
           ![image13](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/dbbb476b-6092-4be6-812e-3eee969a6d4c)
 
@@ -16,11 +17,7 @@
 
        6) Activate the Google Kubernetes Engine and Artifact Registry APIs by clicking the link: [Enable the APIs](https://console.cloud.google.com/flows/enableapiapiid=artifactregistry.googleapis.com,container.googleapis.com)
 
-       7) To launch the cloud shell, click the **Activate Cloud Shell** button, which is located next to the search toolbar in the upper-right corner of the console
-          ![screenshot-user-images githubusercontent com-2023 09 08-17_00_41](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d38002cd-63a4-46be-b0a7-5351ddd9122f)
-
-          Cloud Shell gives you command-line access to Google Cloud computing resources. Cloud Shell includes the Google Cloud CLI and the kubectl command-line tool.
-          The gcloud CLI is the primary command-line interface for Google Cloud, while kubectl is the primary command-line interface for running commands against Kubernetes clusters. 
+       7) To launch the cloud shell, click the **Activate Cloud Shell** button, which is located next to the search toolbar in the upper-right corner of the console. Cloud Shell gives you command-line access to Google Cloud computing resources. Cloud Shell includes the Google Cloud CLI and the kubectl command-line tool. The gcloud CLI is the primary command-line interface for Google Cloud, while kubectl is the primary command-line interface for running commands against Kubernetes clusters. 
           A Cloud Shell session appears in a frame lower on the console.
           ![image18](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/a1ea6bc5-b4bb-473a-9b72-4a0f2238f40d)
 
@@ -47,7 +44,7 @@
     The cluster '**isec6000-cluster-task1**' is now created
     ![image9](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/fb77e895-cb56-4912-b0a3-65ac120ec8af)
 
-#Install and configure kubectl to manage your Kubernetes cluster
+# Install and configure kubectl to manage your Kubernetes cluster
 1) After creating the GKE cluster, click on the **connect** listed in the cluster action
    ![image16](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/019a1db1-c84e-4952-98d9-5d466e97edc8)
 
