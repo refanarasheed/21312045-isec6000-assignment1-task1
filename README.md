@@ -1,24 +1,22 @@
-![image](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/08949cb3-2240-4cd7-8983-d0c9eee9a9db)
-image courtesy: Google
+<div align="center">![1_Xyrmr3lIfdwwH638Iv0LzQ](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/2d0d047c-f308-4078-9b00-14a4f9518bc9)</div>
+<div align="center" style="font-size:7px")>image courtesy: Google</div>
 
 # Create Kubernetes Cluster on Google Kubernetes Engine:
 1)	Access the Google Cloud Console by signing in
 2)	Follow the steps below to **create a new project**:
-       1)	In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access: <a href="[https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-  resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)">Go to Manage Resources</a>
+       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access:[Go to Manage Resources](https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
        2) Then click the **Create Project** button
           ![image13](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/dbbb476b-6092-4be6-812e-3eee969a6d4c)
 
-       3) Create a new project named '**21312045-ISEC6000-Task1**' in the New Project window. A project name must be between 4 and 30 characters long and can only contain letters, numbers, single quotes,   
-          hyphens,spaces, or exclamation points
-       4) In the Location box, enter the parent organization or folder resource. That resource will serve as the new project's hierarchical parent. If there is no option for an organization, you can use it           to create your new project as the top level of its own resource hierarchy
+       3) Create a new project named '**21312045-ISEC6000-Task1**' in the New Project window. A project name must be between 4 and 30 characters long and can only contain letters, numbers, single quotes, hyphens,spaces, or exclamation points
+       4) In the Location box, enter the parent organization or folder resource. That resource will serve as the new project's hierarchical parent. If there is no option for an organization, you can use it to create your new project as the top level of its own resource hierarchy
        5) When you are finished entering new project information, click **Create**
           ![image25](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/a9e583ad-2189-44c2-b567-c19506a5d4e3)
 
-       6) Activate the Google Kubernetes Engine and Artifact Registry APIs by clicking the link: <a href="https://console.cloud.google.com/flows/enableapi? apiid=artifactregistry.googleapis.com,container.googleapis.com>Enable the APIs</a>
-          ![image15](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/69b76c29-73d4-4f0b-a94d-fb75a7e7abfa)
+       6) Activate the Google Kubernetes Engine and Artifact Registry APIs by clicking the link: [Enable the APIs](https://console.cloud.google.com/flows/enableapiapiid=artifactregistry.googleapis.com,container.googleapis.com)
 
        7) To launch the cloud shell, click the **Activate Cloud Shell** button, which is located next to the search toolbar in the upper-right corner of the console
-          ![image3](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/2bad214f-e7c6-4331-b770-0c1059ba4180)
+          ![screenshot-user-images githubusercontent com-2023 09 08-17_00_41](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d38002cd-63a4-46be-b0a7-5351ddd9122f)
 
           Cloud Shell gives you command-line access to Google Cloud computing resources. Cloud Shell includes the Google Cloud CLI and the kubectl command-line tool.
           The gcloud CLI is the primary command-line interface for Google Cloud, while kubectl is the primary command-line interface for running commands against Kubernetes clusters. 
@@ -41,7 +39,6 @@ image courtesy: Google
           ![image34](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/34d0d54d-3300-4dd6-91b5-e16c83c1e0f7)
 
 3)  Now, from the navigation menu, select Kubernetes Engine, followed by **Clusters**
-    ![image7](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/b3989b53-5ecd-4b5b-85b6-43ceda2feb15)
 
 4) Configure your cluster's settings, such as the name, location, and node pool configuration. Then click **Create** to provision your GKE cluster.
     ![image31](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/8668d953-7ac5-4686-beb0-c2547959724e)
