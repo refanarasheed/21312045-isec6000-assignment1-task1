@@ -1,6 +1,6 @@
 ![kubernetes-horizontal-color](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d89b9c37-afc8-4b40-997b-ddf2478eba96)
 
-<div align="center">image courtesy: Google</div>
+<div align="center">image courtesy: Kubernetes</div>
 
 # Create Kubernetes Cluster on Google Kubernetes Engine
 1)	Access the Google Cloud Console by signing in
