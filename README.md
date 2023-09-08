@@ -1,17 +1,16 @@
 ![kubernetes-horizontal-color](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d89b9c37-afc8-4b40-997b-ddf2478eba96)
 
-<div align="center">img courtesy: Google</div>
+<div align="center">image courtesy: Google</div>
 
-# Create Kubernetes Cluster on Google Kubernetes Engine:
+# Create Kubernetes Cluster on Google Kubernetes Engine
 1)	Access the Google Cloud Console by signing in
 2)	Follow the steps below to **create a new project**:
-       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access:
-          [Go to Manage Resources] (https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
+       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access: [Go to Manage Resources]([https://console.cloud.google.com/flows/enableapiapiid=artifactregistry.googleapis.com,container.googleapis.com)](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
        3) Then click the **Create Project** button
           ![image13](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/dbbb476b-6092-4be6-812e-3eee969a6d4c)
 
-       4) Create a new project named '**21312045-ISEC6000-Task1**' in the New Project window. A project name must be between 4 and 30 characters long and can only contain letters, numbers, single quotes, hyphens,spaces, or exclamation points
-       5) In the Location box, enter the parent organization or folder resource. That resource will serve as the new project's hierarchical parent. If there is no option for an organization, you can use it to create your new project as the top level of its own resource hierarchy
+       4) Create a new project named '**21312045-ISEC6000-Task1**' in the New Project window. A project name must be between 4 and 30 characters long and can only contain letters, numbers, single quotes, hyphens,spaces, or exclamation points.
+       5) In the Location box, enter the parent organization or folder resource. That resource will serve as the new project's hierarchical parent. If there is no option for an organization, you can use it to create your new project as the top level of its own resource hierarchy.
        6) When you are finished entering new project information, click **Create**
           ![image25](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/a9e583ad-2189-44c2-b567-c19506a5d4e3)
 
@@ -41,7 +40,7 @@
 4) Configure your cluster's settings, such as the name, location, and node pool configuration. Then click **Create** to provision your GKE cluster.
     ![image31](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/8668d953-7ac5-4686-beb0-c2547959724e)
 
-    The cluster '**isec6000-cluster-task1**' is now created
+    The cluster '**isec6000-cluster-task1**' is created now
     ![image9](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/fb77e895-cb56-4912-b0a3-65ac120ec8af)
 
 # Install and configure kubectl to manage your Kubernetes cluster
