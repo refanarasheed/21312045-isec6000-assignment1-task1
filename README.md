@@ -1,10 +1,11 @@
-<div align="center">![1_Xyrmr3lIfdwwH638Iv0LzQ](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/2d0d047c-f308-4078-9b00-14a4f9518bc9)</div>
-<div align="center" style="font-size:7px")>image courtesy: Google</div>
+<div align="center">![kubernetes-horizontal-color](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/d89b9c37-afc8-4b40-997b-ddf2478eba96)
+</div>
+<div align="center">######image courtesy: Google</div>
 
 # Create Kubernetes Cluster on Google Kubernetes Engine:
 1)	Access the Google Cloud Console by signing in
 2)	Follow the steps below to **create a new project**:
-       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access:[Go to Manage Resources](https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
+       1) In the Google Cloud console, go to the Manage Resources page. Here is a link that you can use for easy access: [Go to Manage Resources]  (https://docs.saleor.io/docs/3.x/](https://console.cloud.google.com/cloud-resource-manager?walkthrough_id=resource-manager--create-project&start_index=1&_ga=2.210894805.1333585992.1693288858-1368561227.1693027365&_gac=1.54144346.1693027503.CjwKCAjwoqGnBhAcEiwAwK-OkdDkdFh8ORWsvhT0rYfi1Z1M_rtcCVCt1oi9nYEgsSw0TueDC7ddFhoCx90QAvD_BwE#step_index=1)
        2) Then click the **Create Project** button
           ![image13](https://github.com/refanarasheed/21312045-isec6000-assignment1-task1/assets/143176582/dbbb476b-6092-4be6-812e-3eee969a6d4c)
 
